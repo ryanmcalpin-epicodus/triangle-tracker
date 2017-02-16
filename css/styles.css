@@ -1,0 +1,9 @@
+h1 {
+  font-size: 100px;
+  text-align: center;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
